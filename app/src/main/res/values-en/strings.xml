@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Money Converter</string>
+    <string name="convertir">Convert the amount of:</string>
+    <string name="toconvert">Value to convert</string>
+    <string name="a">To</string>
+    <string name="convert">Convert</string>
+    <string name="resultado">The amount of %s %s, is equivalent to: %s %s</string>
+
+    <string-array name="origen">
+        <item>Money origin</item>
+        <item>USD</item>
+        <item>COP</item>
+        <item>EUR</item>
+        <item>MXN</item>
+    </string-array>
+
+    <string-array name="destino">
+        <item>Money destiny</item>
+        <item>USD</item>
+        <item>COP</item>
+        <item>EUR</item>
+        <item>MXN</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Conversor de Moneda</string>
+    <string name="convertir">Convertir el valor de:</string>
+    <string name="toconvert">Valor a Convertir</string>
+    <string name="a">A</string>
+    <string name="convert">Convertir</string>
+    <string name="resultado">El valor de %s %s \nEs equivalente a: \n%s %s</string>
+
+    <string-array name="origen">
+        <item>Moneda origen</item>
+        <item>USD</item>
+        <item>COP</item>
+        <item>EUR</item>
+        <item>MXN</item>
+    </string-array>
+
+    <string-array name="destino">
+        <item>Moneda destino</item>
+        <item>USD</item>
+        <item>COP</item>
+        <item>EUR</item>
+        <item>MXN</item>
+    </string-array>
+</resources>
